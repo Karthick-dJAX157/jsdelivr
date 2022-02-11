@@ -21,16 +21,6 @@ var slotname = '/21730683197/tnbclive.com/homepage';
 var adunitCode = ['div-ros-mrec-300x250', 'div-home-world-mpu-300x250-02'];
 var adSize = [300, 250];
 // -- End of Google tag - Slot Details 
-
-// -- GeoEdge in-page for prebid GAM --
-/*window.grumi = {       
-	key: '53e1489b-c32b-4268-9a79-82c47337f4b9'
-};
-var geoedge = document.createElement("script");
-geoedge.src="//rumcdn.geoedge.be/53e1489b-c32b-4268-9a79-82c47337f4b9/grumi-ip.js";
-geoedge.async = true;
-document.head.append(geoedge);*/
-// -- End of GeoEdge in-page for prebid GAM --
 	
 // -- Global site tag (gtag.js) - Google Analytics --
 var gtm = document.createElement("script");
